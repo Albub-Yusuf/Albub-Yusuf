@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Albub Yusuf</h1>
-<h3 align="center">A passionate web developer & keen learner from Bangladesh</h3>
+<h3 align="center">A passionate web developer & keen learner</h3>
 
 - 🌱 I’m currently learning **React**
 
